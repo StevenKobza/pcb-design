@@ -4,4 +4,7 @@
   (lib (name "Alps_Only")(type "KiCad")(uri "/Users/stevenkobza/pcb-design-files/pcb-design/MX_Alps_Hybrid/Alps_Only.pretty")(options "")(descr "")(disabled))
   (lib (name "Kailh_Choc")(type "KiCad")(uri "/Users/stevenkobza/pcb-design-files/pcb-design/MX_Alps_Hybrid/Kailh_Choc.pretty")(options "")(descr "")(disabled))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "/Users/stevenkobza/pcb-design-files/pcb-design/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "/Users/stevenkobza/pcb-design-files/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "ATmega32U4")(type "KiCad")(uri "/Users/stevenkobza/pcb-design-files/kicad-ATmega32U4/ATmega32U4.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "/Users/stevenkobza/pcb-design-files/RP_Silicon_KiCad/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
 )
